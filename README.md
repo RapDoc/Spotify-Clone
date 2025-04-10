@@ -36,6 +36,3 @@ Since Spotify uses proprietary assets, the project uses the following open-sourc
 - ➖ A decorative footer with a horizontal line
 
 ---
-
-## 🗂️ Folder Structure
-
