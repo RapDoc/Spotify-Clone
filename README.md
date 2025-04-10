@@ -6,7 +6,7 @@ A **static frontend clone** of Spotify’s web player, crafted using **HTML** an
 
 ## 🌐 Preview
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e5d9d0d0-9190-4e50-86cc-96d5da1c549a)
 
 
 ---
